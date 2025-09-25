@@ -1,7 +1,8 @@
 ## Hi, I am david bryan, a software developer.
- 
+<div>
 <img align='right' src='https://i.gifer.com/7IjS.gif' width='200"'>
-## 📫 How to reach me:
+</div>
+ ## 📫 How to reach me:
 
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:davidbryanramboy@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/david-bryan-ramboy-b83284230/)
@@ -11,7 +12,7 @@
 <!-- ## if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://buymeacoffee.com/davidbryanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-## 🔧 Technologies & Tools
+ 🔧 Technologies & Tools
 <div align="left">
   <!-- Flutter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
