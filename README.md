@@ -10,12 +10,12 @@
 ## 🌍 Hello World!!
 - 🎯 Portfolio site: https://david-ramboy.github.io/davidflutter.github.io/
   
- 📫 How to reach me: 
+## 📫 How to reach me: 
 
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:davidbryanramboy@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/david-bryan-ramboy-b83284230/)
  
- 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 <div align="left">
   <!-- Flutter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
