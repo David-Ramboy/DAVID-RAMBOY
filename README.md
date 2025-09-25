@@ -2,7 +2,7 @@
 <div>
 <img align='right' src='https://i.gifer.com/7IjS.gif' width='200"'>
 </div>
- ## 📫 How to reach me:
+📫 How to reach me:
 
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:davidbryanramboy@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/david-bryan-ramboy-b83284230/)
