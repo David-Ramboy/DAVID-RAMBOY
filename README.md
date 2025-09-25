@@ -1,17 +1,22 @@
-## Hi, I am david bryan, a software developer.
-<div>
-<img align='right' src='https://i.gifer.com/7IjS.gif' width='200"'>
-</div>
-📫 How to reach me:
+<p align="center">
+  <h1 align="center">DAVID BRYAN RAMBOY</h1>
+</p>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software-Dev%20%20and%20app%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+## <img align="center" src='https://i.gifer.com/7IjS.gif' width='100' height='100'>
+
+
+## 🌍 Hello World!!
+- 🎯 Portfolio site: https://david-ramboy.github.io/davidflutter.github.io/
+  
+ 📫 How to reach me: 
 
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:davidbryanramboy@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/david-bryan-ramboy-b83284230/)
-<!-- [![Resume](https://skillicons.dev/icons?i=google-drive&theme=dark)](https://drive.google.com/file/d/1sTHd_BJZPle8S-bvAhitgaGb4ugHzSKq/view?usp=drive_link) -->
  
-<!-- [![Resume](https://skillicons.dev/icons?i=google-drive&theme=dark)](https://drive.google.com/file/d/1sTHd_BJZPle8S-bvAhitgaGb4ugHzSKq/view?usp=drive_link) -->
-<!-- ## if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://buymeacoffee.com/davidbryanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
  🔧 Technologies & Tools
 <div align="left">
   <!-- Flutter -->
