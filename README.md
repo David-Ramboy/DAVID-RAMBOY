@@ -1,7 +1,6 @@
 ## Hi, I am david bryan, a software developer.
  
-[![gif](https://i.gifer.com/7IjS.gif)
-
+<img align='right' src='https://i.gifer.com/7IjS.gif' width='200"'>
 ## 📫 How to reach me:
 
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:davidbryanramboy@gmail.com)
